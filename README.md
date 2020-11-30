@@ -1,7 +1,5 @@
 # Agora Flutter Quickstart
 
-_其他语言版本： [简体中文](README.zh.md)_
-
 This tutorial describes how to create an Agora account and build a sample app with Agora using [Flutter](https://flutter.io/).
 
 ## Prerequisites
@@ -18,8 +16,8 @@ This repository shows you how to use Agora Flutter SDK to build a simple video c
 - Switch camera views
 - Layout multiple video views
 
-![Screenshot-1](screenshot-1.png)
-![Screenshot-2](screenshot-2.png)
+![Screenshot-1](https://github.com/rahamanar/agora_video_call_flutter/blob/main/Screenshot1.png)
+![Screenshot-2](https://github.com/rahamanar/agora_video_call_flutter/blob/main/Screenshot2.png)
 
 ### Create an Account and Obtain an App ID
 
